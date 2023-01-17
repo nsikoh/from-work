@@ -1,0 +1,9 @@
+#!/bin/bash
+
+
+
+echo "what is your NAME?"
+
+read  NAME
+
+echo "Welcome: $NAME, now on we are Friends!"
